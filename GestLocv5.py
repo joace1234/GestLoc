@@ -1,4 +1,5 @@
 import customtkinter as ctk
+import sqlite3
 
 # ==================================
 # FORMULAIRE NOUVEAU LOCATAIRE (Nouveau V5)
