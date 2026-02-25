@@ -40,7 +40,7 @@ def Appartement():
     zone5.place(x=200, y=250)
 
 
-    ctk.CTkButton(app, text='Suivant', command=go_to_info).place(x=350, y=320)
+    ctk.CTkButton(app, text='Suivant').place(x=350, y=320)
     app.mainloop()
 
 # ==========================
